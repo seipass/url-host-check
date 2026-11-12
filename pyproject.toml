@@ -1,0 +1,8 @@
+[project]
+name = "url-host-check"
+version = "0.1.0"
+description = "Extract a normalized URL hostname"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
